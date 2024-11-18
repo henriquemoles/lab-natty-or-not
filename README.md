@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Café Melita vs Café V60: A Comparação Definitiva
 
-## 🚀 Introdução
+## Descrição
 
-> Woooow! Look at this 👀
+Neste desafio, o objetivo é comparar dois dos métodos mais populares de preparo de café: o **Café Melita** e o **Café V60**. Este estudo busca destacar as principais diferenças entre eles, abordando aspectos como sabor, preparo, equipamentos e técnicas de filtragem. Além disso, um vídeo foi criado para apresentar essas comparações de uma maneira prática e visual.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## Tecnologias Utilizadas
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+- **Vídeo**: Produção de conteúdo visual para comparação dos dois métodos de café.
+- **Edição**: Ferramentas de edição de vídeo para ilustrar o processo de preparação e degustação.
+- **Café**: Melita e V60, com foco na análise de sabor e experiência sensorial.
 
-### Objetivos
+## Objetivo
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+O principal objetivo deste projeto é apresentar de forma clara e objetiva as diferenças entre os dois métodos de preparo de café. Os pontos principais abordados são:
 
-### Template
+- **Equipamento**: Diferenças nos filtros, no formato dos coadores e nas propriedades de cada tipo de café.
+- **Técnicas de Preparação**: Como o tempo de infusão, a temperatura da água e a técnica de despejo influenciam o sabor final.
+- **Sabor**: Como os métodos Melita e V60 resultam em sabores diferentes, com características específicas de cada tipo de preparo.
+  
+## Como Assistir ao Vídeo
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Para ver o vídeo completo sobre as diferenças entre o café Melita e o café V60, basta [clicar aqui](link_do_video).
 
-## 📒 Descrição
-Breve descrição do seu projeto
+## Licença
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
